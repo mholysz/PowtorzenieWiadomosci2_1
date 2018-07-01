@@ -22,9 +22,8 @@ public class TestClassZadanie3 {
     }
 
     @Test
-    public void whenTwoSubscribersListInNewsBroadCaserLengthIsTwo(){
-        Subscriber subscriber3 = new Subscriber("Sub3", newsBroadcaster);
-
+    public void whenTwoSubscribersListInNewsBroadcasterLengthIsTwo(){
+        
     }
 
 }
